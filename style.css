@@ -47,7 +47,7 @@ body {
   animation: moving-flower-1 4s linear infinite;
 }
 .flower--1 .flower__line {
-  height: 100vmin;
+  height: 140vmin;
   animation-delay: 0.3s;
 }
 .flower--1 .flower__line__leaf--1 {
@@ -74,7 +74,7 @@ body {
   animation: moving-flower-2 4s linear infinite;
 }
 .flower--2 .flower__line {
-  height: 90vmin;
+  height: 130vmin;
   animation-delay: 0.8s;
 }
 .flower--2 .flower__line__leaf--1 {
